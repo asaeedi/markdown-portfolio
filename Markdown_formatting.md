@@ -79,4 +79,15 @@ Year | Activity | Detail
 2012-2014 | University of Tehran | Electrical and Computer Engineering
 2014-2016 | Negar Andishgan Company | Research and Development
 
+Command | Description
+:--- | :---:
+*`ones()`* | creates vector or martix of desired size of all __ones__
+*`zeros()`* | creates vector or martix of desired size of all __zeros__
+
+
+
+
+
+
+
 More information can be found here on [Writing on GitHub](https://help.github.com/en/github/writing-on-github)
